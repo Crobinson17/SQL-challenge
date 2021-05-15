@@ -1,6 +1,6 @@
 # SQL-challenge
 
-Software used: SQL
+Software used: SQL, Pandas, Python
 
 ---Data Engineering
 
